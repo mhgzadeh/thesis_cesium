@@ -1,0 +1,51 @@
+.cesium-viewer-bottom {
+    left: 0 !important;
+    bottom: 0 !important;
+}
+
+.cesium-viewer-animationContainer,
+.cesium-credit-textContainer,
+.cesium-viewer-timelineContainer,
+.cesium-credit-expand-link,
+.cesium-home-button,
+.cesium-sceneModePicker-wrapper,
+.cesium-navigationHelpButton-wrapper {
+    display: none !important;
+}
+
+.h-100 {
+    height: 100vh !important;
+}
+
+.z-1000 {
+    z-index: 1000;
+}
+
+.btn-position {
+    top: 4rem !important; 
+}
+
+.btn-shadow {
+    top: 7rem !important; 
+    left: 1rem;
+}
+
+
+.form-check-input:checked {
+    background-color: #357ddc;
+    border-color: #359fdc;
+}
+
+.form-check-label {
+    color: white;
+}
+
+.div-btns-holder {
+    background-color: rgb(44, 44, 44);
+    border-radius: 10px;
+}
+
+#toolbar {
+    top: 6rem;
+    left: -0.5rem !important;
+}
